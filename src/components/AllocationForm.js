@@ -69,7 +69,7 @@ const AllocationForm = (props) => {
             <option value="Sales" name="sales">
               Sales
             </option>
-            <option value="Finance" name="finance">
+            <option value="Finance" name="finance" >
               Finance
             </option>
             <option value="HR" name="hr">
@@ -95,6 +95,7 @@ const AllocationForm = (props) => {
           >
             <option defaultValue value="Add" name="Add">
               Add
+              
             </option>
             <option value="Reduce" name="Reduce">
               Reduce
